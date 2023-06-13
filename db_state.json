@@ -1,0 +1,1 @@
+{"covid": {"file_path": "covid.json", "chunk_size": 14848, "primary_key": "#"}, "medicalpatient": {"file_path": "medicalpatient.json", "chunk_size": 9728, "primary_key": ["patient_info", "patient_id"]}, "busanPatient": {"file_path": "busanPatient.json", "chunk_size": 9728, "primary_key": ["patient_info", "patient_id"]}}

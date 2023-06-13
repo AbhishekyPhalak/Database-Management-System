@@ -1,0 +1,1619 @@
+{
+  "1": {
+    "patient_info": {
+      "patient_id": 1,
+      "chronic_conditions": ["Diabetes"],
+      "medications": ["Metformin"],
+      "allergies": ["Penicillin"]
+    }
+  },
+  "2": {
+    "patient_info": {
+      "patient_id": 2,
+      "chronic_conditions": ["Hypertension"],
+      "medications": ["Lisinopril"],
+      "allergies": ["Ibuprofen"]
+    }
+  },
+  "3": {
+    "patient_info": {
+      "patient_id": 3,
+      "chronic_conditions": ["Asthma"],
+      "medications": ["Albuterol"],
+      "allergies": ["Aspirin"]
+    }
+  },
+  "4": {
+    "patient_info": {
+      "patient_id": 4,
+      "chronic_conditions": ["Heart Disease"],
+      "medications": ["Atorvastatin"],
+      "allergies": ["Sulfa Drugs"]
+    }
+  },
+  "5": {
+    "patient_info": {
+      "patient_id": 5,
+      "chronic_conditions": ["Arthritis"],
+      "medications": ["Celecoxib"],
+      "allergies": ["Latex"]
+    }
+  },
+  "6": {
+    "patient_info": {
+      "patient_id": 6,
+      "chronic_conditions": ["Osteoporosis"],
+      "medications": ["Alendronate"],
+      "allergies": ["Nuts"]
+    }
+  },
+  "7": {
+    "patient_info": {
+      "patient_id": 7,
+      "chronic_conditions": ["Epilepsy"],
+      "medications": ["Carbamazepine"],
+      "allergies": ["Shellfish"]
+    }
+  },
+  "8": {
+    "patient_info": {
+      "patient_id": 8,
+      "chronic_conditions": ["Gastroesophageal Reflux Disease"],
+      "medications": ["Omeprazole"],
+      "allergies": ["Dairy"]
+    }
+  },
+  "9": {
+    "patient_info": {
+      "patient_id": 9,
+      "chronic_conditions": ["Chronic Kidney Disease"],
+      "medications": ["Losartan"],
+      "allergies": ["Gluten"]
+    }
+  },
+  "10": {
+    "patient_info": {
+      "patient_id": 10,
+      "chronic_conditions": ["Migraine"],
+      "medications": ["Sumatriptan"],
+      "allergies": ["Eggs"]
+    }
+  },
+  "11": {
+    "patient_info": {
+      "patient_id": 11,
+      "chronic_conditions": ["Psoriasis"],
+      "medications": ["Methotrexate"],
+      "allergies": ["Peanuts"]
+    }
+  },
+  "12": {
+    "patient_info": {
+      "patient_id": 12,
+      "chronic_conditions": ["Hyperthyroidism"],
+      "medications": ["Levothyroxine"],
+      "allergies": ["Soy"]
+    }
+  },
+  "13": {
+    "patient_info": {
+      "patient_id": 13,
+      "chronic_conditions": ["Multiple Sclerosis"],
+      "medications": ["Interferon Beta-1a"],
+      "allergies": ["Wheat"]
+    }
+  },
+  "14": {
+    "patient_info": {
+      "patient_id": 14,
+      "chronic_conditions": ["Ulcerative Colitis"],
+      "medications": ["Mesalamine"],
+      "allergies": ["Fish"]
+    }
+  },
+  "15": {
+    "patient_info": {
+      "patient_id": 15,
+      "chronic_conditions": ["Chronic Obstructive Pulmonary Disease"],
+      "medications": ["Ipratropium"],
+      "allergies": ["Tree Nuts"]
+    }
+  },
+  "16": {
+    "patient_info": {
+      "patient_id": 16,
+      "chronic_conditions": ["Celiac Disease"],
+      "medications": ["Gluten-Free Diet"],
+      "allergies": ["Latex"]
+    }
+  },
+  "17": {
+    "patient_info": {
+      "patient_id": 17,
+      "chronic_conditions": ["Parkinson's Disease"],
+      "medications": ["Levodopa"],
+      "allergies": ["Codeine"]
+    }
+  },
+  "18": {
+    "patient_info": {
+      "patient_id": 18,
+      "chronic_conditions": ["Rheumatoid Arthritis"],
+      "medications": ["Etanercept"],
+      "allergies": ["Morphine"]
+    }
+  },
+  "19": {
+    "patient_info": {
+      "patient_id": 19,
+      "chronic_conditions": ["Bipolar Disorder"],
+      "medications": ["Lithium"],
+      "allergies": ["Sulfa Drugs"]
+    }
+  },
+  "20": {
+    "patient_info": {
+      "patient_id": 20,
+      "chronic_conditions": ["Chronic Heart Failure"],
+      "medications": ["Digoxin"],
+      "allergies": ["Pollen"]
+    }
+  },
+  "21": {
+    "patient_info": {
+      "patient_id": 21,
+      "chronic_conditions": ["Anemia"],
+      "medications": ["Iron Supplements"],
+      "allergies": ["Dust"]
+    }
+  },
+  "22": {
+    "patient_info": {
+      "patient_id": 22,
+      "chronic_conditions": ["Chronic Renal Failure"],
+      "medications": ["Erythropoietin"],
+      "allergies": ["Latex"]
+    }
+  },
+  "23": {
+    "patient_info": {
+      "patient_id": 23,
+      "chronic_conditions": ["Crohn's Disease"],
+      "medications": ["Infliximab"],
+      "allergies": ["Penicillin"]
+    }
+  },
+  "24": {
+    "patient_info": {
+      "patient_id": 24,
+      "chronic_conditions": ["Osteoarthritis"],
+      "medications": ["Naproxen"],
+      "allergies": ["Aspirin"]
+    }
+  },
+  "25": {
+    "patient_info": {
+      "patient_id": 25,
+      "chronic_conditions": ["Depression"],
+      "medications": ["Fluoxetine"],
+      "allergies": ["Shellfish"]
+    }
+  },
+  "26": {
+    "patient_info": {
+      "patient_id": 26,
+      "chronic_conditions": ["Type 2 Diabetes"],
+      "medications": ["Insulin"],
+      "allergies": ["Bee Stings"]
+    }
+  },
+  "27": {
+    "patient_info": {
+      "patient_id": 27,
+      "chronic_conditions": ["Hypothyroidism"],
+      "medications": ["Thyroxine"],
+      "allergies": ["Peanuts"]
+    }
+  },
+  "28": {
+    "patient_info": {
+      "patient_id": 28,
+      "chronic_conditions": ["Gout"],
+      "medications": ["Allopurinol"],
+      "allergies": ["Sulfonamides"]
+    }
+  },
+  "29": {
+    "patient_info": {
+      "patient_id": 29,
+      "chronic_conditions": ["Chronic Liver Disease"],
+      "medications": ["Ursodeoxycholic Acid"],
+      "allergies": ["Iodine"]
+    }
+  },
+  "30": {
+    "patient_info": {
+      "patient_id": 29,
+      "chronic_conditions": ["Chronic Liver Disease"],
+      "medications": ["Ursodeoxycholic Acid"],
+      "allergies": ["Iodine"]
+    }
+  },
+  "31": {
+    "patient_info": {
+      "patient_id": 31,
+      "chronic_conditions": ["Anxiety Disorder"],
+      "medications": ["Sertraline"],
+      "allergies": ["Tree Pollen"]
+    }
+  },
+  "32": {
+    "patient_info": {
+      "patient_id": 32,
+      "chronic_conditions": ["Bronchial Asthma"],
+      "medications": ["Fluticasone"],
+      "allergies": ["Cat Dander"]
+    }
+  },
+  "33": {
+    "patient_info": {
+      "patient_id": 33,
+      "chronic_conditions": ["Chronic Pancreatitis"],
+      "medications": ["Pancreatic Enzymes"],
+      "allergies": ["Egg Whites"]
+    }
+  },
+  "34": {
+    "patient_info": {
+      "patient_id": 34,
+      "chronic_conditions": ["Dermatitis"],
+      "medications": ["Hydrocortisone Cream"],
+      "allergies": ["Nickel"]
+    }
+  },
+  "35": {
+    "patient_info": {
+      "patient_id": 35,
+      "chronic_conditions": ["Endometriosis"],
+      "medications": ["Leuprolide"],
+      "allergies": ["Latex"]
+    }
+  },
+  "36": {
+    "patient_info": {
+      "patient_id": 36,
+      "chronic_conditions": ["Fibromyalgia"],
+      "medications": ["Pregabalin"],
+      "allergies": ["Sulfa Antibiotics"]
+    }
+  },
+  "37": {
+    "patient_info": {
+      "patient_id": 37,
+      "chronic_conditions": ["Glaucoma"],
+      "medications": ["Timolol Eye Drops"],
+      "allergies": ["Dust Mites"]
+    }
+  },
+  "38": {
+    "patient_info": {
+      "patient_id": 38,
+      "chronic_conditions": ["Hemophilia"],
+      "medications": ["Factor VIII Concentrate"],
+      "allergies": ["Kiwi"]
+    }
+  },
+  "39": {
+    "patient_info": {
+      "patient_id": 39,
+      "chronic_conditions": ["Irritable Bowel Syndrome"],
+      "medications": ["Loperamide"],
+      "allergies": ["Lactose"]
+    }
+  },
+  "40": {
+    "patient_info": {
+      "patient_id": 40,
+      "chronic_conditions": ["Lupus"],
+      "medications": ["Hydroxychloroquine"],
+      "allergies": ["Sunlight"]
+    }
+  },
+  "41": {
+    "patient_info": {
+      "patient_id": 41,
+      "chronic_conditions": ["Myasthenia Gravis"],
+      "medications": ["Pyridostigmine"],
+      "allergies": ["Mushrooms"]
+    }
+  },
+  "42": {
+    "patient_info": {
+      "patient_id": 42,
+      "chronic_conditions": ["Neuropathy"],
+      "medications": ["Gabapentin"],
+      "allergies": ["Acetaminophen"]
+    }
+  },
+  "43": {
+    "patient_info": {
+      "patient_id": 43,
+      "chronic_conditions": ["Osteomalacia"],
+      "medications": ["Vitamin D Supplements"],
+      "allergies": ["Wool"]
+    }
+  },
+  "44": {
+    "patient_info": {
+      "patient_id": 44,
+      "chronic_conditions": ["Peptic Ulcer"],
+      "medications": ["Ranitidine"],
+      "allergies": ["Bananas"]
+    }
+  },
+  "45": {
+    "patient_info": {
+      "patient_id": 45,
+      "chronic_conditions": ["Restless Legs Syndrome"],
+      "medications": ["Ropinirole"],
+      "allergies": ["Chocolate"]
+    }
+  },
+  "46": {
+    "patient_info": {
+      "patient_id": 46,
+      "chronic_conditions": ["Sarcoidosis"],
+      "medications": ["Prednisone"],
+      "allergies": ["Pollen"]
+    }
+  },
+  "47": {
+    "patient_info": {
+      "patient_id": 47,
+      "chronic_conditions": ["Tinnitus"],
+      "medications": ["Amitriptyline"],
+      "allergies": ["Citrus Fruits"]
+    }
+  },
+  "48": {
+    "patient_info": {
+      "patient_id": 48,
+      "chronic_conditions": ["Ulcerative Proctitis"],
+      "medications": ["Sulfasalazine"],
+      "allergies": ["Shellfish"]
+    }
+  },
+  "49": {
+    "patient_info": {
+      "patient_id": 49,
+      "chronic_conditions": ["Varicose Veins"],
+      "medications": ["Horse Chestnut Extract"],
+      "allergies": ["Rubber"]
+    }
+  },
+  "50": {
+    "patient_info": {
+      "patient_id": 50,
+      "chronic_conditions": ["Wilson's Disease"],
+      "medications": ["Trientine"],
+      "allergies": ["Copper"]
+    }
+  },
+  "51": {
+    "patient_info": {
+      "patient_id": 51,
+      "chronic_conditions": ["Acid Reflux"],
+      "medications": ["Esomeprazole"],
+      "allergies": ["Garlic"]
+    }
+  },
+  "52": {
+    "patient_info": {
+      "patient_id": 52,
+      "chronic_conditions": ["Bell's Palsy"],
+      "medications": ["Prednisolone"],
+      "allergies": ["Avocado"]
+    }
+  },
+  "53": {
+    "patient_info": {
+      "patient_id": 53,
+      "chronic_conditions": ["Cystic Fibrosis"],
+      "medications": ["Creon"],
+      "allergies": ["Chlorine"]
+    }
+  },
+  "54": {
+    "patient_info": {
+      "patient_id": 54,
+      "chronic_conditions": ["Dyslexia"],
+      "medications": ["None"],
+      "allergies": ["Ink"]
+    }
+  },
+  "55": {
+    "patient_info": {
+      "patient_id": 55,
+      "chronic_conditions": ["Eczema"],
+      "medications": ["Tacrolimus Ointment"],
+      "allergies": ["Wool Fibers"]
+    }
+  },
+  "56": {
+    "patient_info": {
+      "patient_id": 56,
+      "chronic_conditions": ["Frozen Shoulder"],
+      "medications": ["Ibuprofen"],
+      "allergies": ["Cold"]
+    }
+  },
+  "57": {
+    "patient_info": {
+      "patient_id": 57,
+      "chronic_conditions": ["Graves' Disease"],
+      "medications": ["Methimazole"],
+      "allergies": ["Seafood"]
+    }
+  },
+  "58": {
+    "patient_info": {
+      "patient_id": 58,
+      "chronic_conditions": ["Hemorrhoids"],
+      "medications": ["Hydrocortisone Suppositories"],
+      "allergies": ["Spicy Food"]
+    }
+  },
+  "59": {
+    "patient_info": {
+      "patient_id": 59,
+      "chronic_conditions": ["Insomnia"],
+      "medications": ["Zolpidem"],
+      "allergies": ["Caffeine"]
+    }
+  },
+  "60": {
+    "patient_info": {
+      "patient_id": 60,
+      "chronic_conditions": ["Juvenile Diabetes"],
+      "medications": ["Insulin Pump"],
+      "allergies": ["Corn Syrup"]
+    }
+  },
+  "61": {
+    "patient_info": {
+      "patient_id": 61,
+      "chronic_conditions": ["Kidney Stones"],
+      "medications": ["Tamsulosin"],
+      "allergies": ["Calcium Supplements"]
+    }
+  },
+  "62": {
+    "patient_info": {
+      "patient_id": 62,
+      "chronic_conditions": ["Lyme Disease"],
+      "medications": ["Doxycycline"],
+      "allergies": ["Deer Ticks"]
+    }
+  },
+  "63": {
+    "patient_info": {
+      "patient_id": 63,
+      "chronic_conditions": ["Meniere's Disease"],
+      "medications": ["Meclizine"],
+      "allergies": ["Loud Noises"]
+    }
+  },
+  "64": {
+    "patient_info": {
+      "patient_id": 64,
+      "chronic_conditions": ["Narcolepsy"],
+      "medications": ["Modafinil"],
+      "allergies": ["Sleep Aids"]
+    }
+  },
+  "65": {
+    "patient_info": {
+      "patient_id": 65,
+      "chronic_conditions": ["Obsessive-Compulsive Disorder"],
+      "medications": ["Fluvoxamine"],
+      "allergies": ["Dust"]
+    }
+  },
+  "66": {
+    "patient_info": {
+      "patient_id": 66,
+      "chronic_conditions": ["Polycystic Ovary Syndrome"],
+      "medications": ["Metformin"],
+      "allergies": ["Hormones"]
+    }
+  },
+  "67": {
+    "patient_info": {
+      "patient_id": 67,
+      "chronic_conditions": ["Quadriceps Tendonitis"],
+      "medications": ["Physical Therapy"],
+      "allergies": ["Latex Bands"]
+    }
+  },
+  "68": {
+    "patient_info": {
+      "patient_id": 68,
+      "chronic_conditions": ["Rosacea"],
+      "medications": ["Metronidazole Gel"],
+      "allergies": ["Sun Exposure"]
+    }
+  },
+  "69": {
+    "patient_info": {
+      "patient_id": 69,
+      "chronic_conditions": ["Sinusitis"],
+      "medications": ["Nasal Steroids"],
+      "allergies": ["Pollen"]
+    }
+  },
+  "70": {
+    "patient_info": {
+      "patient_id": 70,
+      "chronic_conditions": ["Tourette Syndrome"],
+      "medications": ["Clonidine"],
+      "allergies": ["Artificial Colorants"]
+    }
+  },
+  "71": {
+    "patient_info": {
+      "patient_id": 71,
+      "chronic_conditions": ["Ulcers"],
+      "medications": ["Omeprazole"],
+      "allergies": ["NSAIDs"]
+    }
+  },
+  "72": {
+    "patient_info": {
+      "patient_id": 72,
+      "chronic_conditions": ["Vasculitis"],
+      "medications": ["Cyclophosphamide"],
+      "allergies": ["Insect Bites"]
+    }
+  },
+  "73": {
+    "patient_info": {
+      "patient_id": 73,
+      "chronic_conditions": ["Wegener's Granulomatosis"],
+      "medications": ["Rituximab"],
+      "allergies": ["Sulfur Drugs"]
+    }
+  },
+  "74": {
+    "patient_info": {
+      "patient_id": 74,
+      "chronic_conditions": ["Xerostomia"],
+      "medications": ["Pilocarpine"],
+      "allergies": ["Mint"]
+    }
+  },
+  "75": {
+    "patient_info": {
+      "patient_id": 75,
+      "chronic_conditions": ["Yeast Infections"],
+      "medications": ["Fluconazole"],
+      "allergies": ["Latex"]
+    }
+  },
+  "76": {
+    "patient_info": {
+      "patient_id": 76,
+      "chronic_conditions": ["Zoster (Shingles)"],
+      "medications": ["Acyclovir"],
+      "allergies": ["Chickenpox Vaccine"]
+    }
+  },
+  "77": {
+    "patient_info": {
+      "patient_id": 77,
+      "chronic_conditions": ["Attention Deficit Hyperactivity Disorder"],
+      "medications": ["Methylphenidate"],
+      "allergies": ["Artificial Sweeteners"]
+    }
+  },
+  "78": {
+    "patient_info": {
+      "patient_id": 78,
+      "chronic_conditions": ["Bruxism"],
+      "medications": ["Muscle Relaxants"],
+      "allergies": ["Hard Foods"]
+    }
+  },
+  "79": {
+    "patient_info": {
+      "patient_id": 79,
+      "chronic_conditions": ["Carpal Tunnel Syndrome"],
+      "medications": ["Wrist Splints"],
+      "allergies": ["Latex Gloves"]
+    }
+  },
+  "80": {
+    "patient_info": {
+      "patient_id": 80,
+      "chronic_conditions": ["Dental Caries"],
+      "medications": ["Fluoride Treatments"],
+      "allergies": ["Amalgam"]
+    }
+  },
+  "81": {
+    "patient_info": {
+      "patient_id": 81,
+      "chronic_conditions": ["Esophageal Cancer"],
+      "medications": ["Chemotherapy"],
+      "allergies": ["Tobacco Smoke"]
+    }
+  },
+  "82": {
+    "patient_info": {
+      "patient_id": 82,
+      "chronic_conditions": ["Fatty Liver Disease"],
+      "medications": ["Dietary Changes"],
+      "allergies": ["Alcohol"]
+    }
+  },
+  "83": {
+    "patient_info": {
+      "patient_id": 83,
+      "chronic_conditions": ["Gallstones"],
+      "medications": ["Ursodiol"],
+      "allergies": ["Fatty Foods"]
+    }
+  },
+  "84": {
+    "patient_info": {
+      "patient_id": 84,
+      "chronic_conditions": ["Hearing Loss"],
+      "medications": ["Hearing Aids"],
+      "allergies": ["Loud Music"]
+    }
+  },
+  "85": {
+    "patient_info": {
+    "patient_id": 85,
+    "chronic_conditions": ["Irritable Bowel Syndrome"],
+    "medications": ["Loperamide"],
+    "allergies": ["Dairy Products"]
+    }
+    },
+    "86": {
+    "patient_info": {
+    "patient_id": 86,
+    "chronic_conditions": ["Joint Pain (Arthritis)"],
+    "medications": ["Celecoxib"],
+    "allergies": ["Gluten"]
+    }
+    },
+    "87": {
+    "patient_info": {
+    "patient_id": 87,
+    "chronic_conditions": ["Keratoconus"],
+    "medications": ["Corneal Collagen Crosslinking"],
+    "allergies": ["UV Light"]
+    }
+    },
+    "88": {
+    "patient_info": {
+    "patient_id": 88,
+    "chronic_conditions": ["Lactose Intolerance"],
+    "medications": ["Lactase Supplements"],
+    "allergies": ["Milk"]
+    }
+    },
+    "89": {
+    "patient_info": {
+    "patient_id": 89,
+    "chronic_conditions": ["Migraines"],
+    "medications": ["Sumatriptan"],
+    "allergies": ["Strong Scents"]
+    }
+    },
+    "90": {
+    "patient_info": {
+    "patient_id": 90,
+    "chronic_conditions": ["Neuralgia"],
+    "medications": ["Gabapentin"],
+    "allergies": ["Cold Weather"]
+    }
+    },
+    "91": {
+    "patient_info": {
+    "patient_id": 91,
+    "chronic_conditions": ["Osteoporosis"],
+    "medications": ["Alendronate"],
+    "allergies": ["High-Impact Exercise"]
+    }
+    },
+    "92": {
+    "patient_info": {
+    "patient_id": 92,
+    "chronic_conditions": ["Psoriasis"],
+    "medications": ["Topical Steroids"],
+    "allergies": ["Dry Weather"]
+    }
+    },
+    "93": {
+    "patient_info": {
+    "patient_id": 93,
+    "chronic_conditions": ["Quadriplegia"],
+    "medications": ["Physical Therapy"],
+    "allergies": ["Aspirin"]
+    }
+    },
+    "94": {
+    "patient_info": {
+    "patient_id": 94,
+    "chronic_conditions": ["Restless Leg Syndrome"],
+    "medications": ["Pramipexole"],
+    "allergies": ["Caffeine"]
+    }
+    },
+    "95": {
+    "patient_info": {
+    "patient_id": 95,
+    "chronic_conditions": ["Scoliosis"],
+    "medications": ["Bracing"],
+    "allergies": ["Latex"]
+    }
+    },
+    "96": {
+    "patient_info": {
+    "patient_id": 96,
+    "chronic_conditions": ["Tinnitus"],
+    "medications": ["Sound Therapy"],
+    "allergies": ["Loud Noises"]
+    }
+    },
+    "97": {
+    "patient_info": {
+    "patient_id": 97,
+    "chronic_conditions": ["Ulcerative Colitis"],
+    "medications": ["Mesalamine"],
+    "allergies": ["NSAIDs"]
+    }
+    },
+    "98": {
+    "patient_info": {
+    "patient_id": 98,
+    "chronic_conditions": ["Varicose Veins"],
+    "medications": ["Compression Stockings"],
+    "allergies": ["Prolonged Standing"]
+    }
+    },
+    "99": {
+    "patient_info": {
+    "patient_id": 99,
+    "chronic_conditions": ["Wrist Tendinitis"],
+    "medications": ["Anti-inflammatory Drugs"],
+    "allergies": ["Repetitive Strain"]
+    }
+    },
+    "100": {
+    "patient_info": {
+    "patient_id": 100,
+    "chronic_conditions": ["Xanthelasma"],
+    "medications": ["Lipid-Lowering Agents"],
+    "allergies": ["High Cholesterol Foods"]
+    }
+    },
+    "101": {
+      "patient_info": {
+      "patient_id": 101,
+      "chronic_conditions": ["Yeast Allergy"],
+      "medications": ["Antifungal Medications"],
+      "allergies": ["Brewer's Yeast"]
+      }
+      },
+      "102": {
+      "patient_info": {
+      "patient_id": 102,
+      "chronic_conditions": ["Zinc Deficiency"],
+      "medications": ["Zinc Supplements"],
+      "allergies": ["High Zinc Foods"]
+      }
+      },
+      "103": {
+      "patient_info": {
+      "patient_id": 103,
+      "chronic_conditions": ["Acoustic Neuroma"],
+      "medications": ["Radiation Therapy"],
+      "allergies": ["Loud Noises"]
+      }
+      },
+      "104": {
+      "patient_info": {
+      "patient_id": 104,
+      "chronic_conditions": ["Bronchitis"],
+      "medications": ["Antibiotics"],
+      "allergies": ["Dust"]
+      }
+      },
+      "105": {
+      "patient_info": {
+      "patient_id": 105,
+      "chronic_conditions": ["Celiac Disease"],
+      "medications": ["Gluten-Free Diet"],
+      "allergies": ["Gluten"]
+      }
+      },
+      "106": {
+      "patient_info": {
+      "patient_id": 106,
+      "chronic_conditions": ["Dermatitis Herpetiformis"],
+      "medications": ["Dapsone"],
+      "allergies": ["Gluten"]
+      }
+      },
+      "107": {
+      "patient_info": {
+      "patient_id": 107,
+      "chronic_conditions": ["Epilepsy"],
+      "medications": ["Antiepileptic Drugs"],
+      "allergies": ["Flashing Lights"]
+      }
+      },
+      "108": {
+      "patient_info": {
+      "patient_id": 108,
+      "chronic_conditions": ["Fibromyalgia"],
+      "medications": ["Pain Relievers"],
+      "allergies": ["Stress"]
+      }
+      },
+      "109": {
+      "patient_info": {
+      "patient_id": 109,
+      "chronic_conditions": ["Gastritis"],
+      "medications": ["Proton Pump Inhibitors"],
+      "allergies": ["Spicy Foods"]
+      }
+      },
+      "110": {
+      "patient_info": {
+      "patient_id": 110,
+      "chronic_conditions": ["Hyperthyroidism"],
+      "medications": ["Thyroid Hormone Suppressants"],
+      "allergies": ["Iodine"]
+      }
+      },
+      "111": {
+      "patient_info": {
+      "patient_id": 111,
+      "chronic_conditions": ["Interstitial Cystitis"],
+      "medications": ["Pentosan Polysulfate Sodium"],
+      "allergies": ["Citrus Fruits"]
+      }
+      },
+      "112": {
+      "patient_info": {
+      "patient_id": 112,
+      "chronic_conditions": ["Jaundice"],
+      "medications": ["Phototherapy"],
+      "allergies": ["Alcohol"]
+      }
+      },
+      "113": {
+      "patient_info": {
+      "patient_id": 113,
+      "chronic_conditions": ["Kidney Failure"],
+      "medications": ["Dialysis"],
+      "allergies": ["High Potassium Foods"]
+      }
+      },
+      "114": {
+      "patient_info": {
+      "patient_id": 114,
+      "chronic_conditions": ["Lichen Planus"],
+      "medications": ["Corticosteroids"],
+      "allergies": ["Metallic Objects"]
+      }
+      },
+      "115": {
+      "patient_info": {
+      "patient_id": 115,
+      "chronic_conditions": ["Multiple Sclerosis"],
+      "medications": ["Immunomodulators"],
+      "allergies": ["Heat"]
+      }
+      },
+      "116": {
+      "patient_info": {
+      "patient_id": 116,
+      "chronic_conditions": ["Neurofibromatosis"],
+      "medications": ["Pain Management"],
+      "allergies": ["Caffeine"]
+      }
+      },
+      "117": {
+      "patient_info": {
+      "patient_id": 117,
+      "chronic_conditions": ["Osteoarthritis"],
+      "medications": ["NSAIDs"],
+      "allergies": ["Cold Weather"]
+      }
+      },
+      "118": {
+      "patient_info": {
+      "patient_id": 118,
+      "chronic_conditions": ["Pulmonary Fibrosis"],
+      "medications": ["Pirfenidone"],
+      "allergies": ["Dust"]
+      }
+      },
+      
+"119": {
+  "patient_info": {
+  "patient_id": 119,
+  "chronic_conditions": ["Rheumatoid Arthritis"],
+  "medications": ["Disease-Modifying Antirheumatic Drugs (DMARDs)"],
+  "allergies": ["Pollen"]
+  }
+  },
+  "120": {
+  "patient_info": {
+  "patient_id": 120,
+  "chronic_conditions": ["Sleep Apnea"],
+  "medications": ["Continuous Positive Airway Pressure (CPAP) Therapy"],
+  "allergies": ["Feathers"]
+  }
+  },
+  "121": {
+  "patient_info": {
+  "patient_id": 121,
+  "chronic_conditions": ["Thalassemia"],
+  "medications": ["Blood Transfusions"],
+  "allergies": ["Iron Supplements"]
+  }
+  },
+  "122": {
+  "patient_info": {
+  "patient_id": 122,
+  "chronic_conditions": ["Ulcerative Colitis"],
+  "medications": ["Anti-Inflammatory Medications"],
+  "allergies": ["Dairy Products"]
+  }
+  },
+  "123": {
+  "patient_info": {
+  "patient_id": 123,
+  "chronic_conditions": ["Vitamin B12 Deficiency"],
+  "medications": ["Vitamin B12 Injections"],
+  "allergies": ["Shellfish"]
+  }
+  },
+  "124": {
+  "patient_info": {
+  "patient_id": 124,
+  "chronic_conditions": ["Wilson's Disease"],
+  "medications": ["Chelating Agents"],
+  "allergies": ["Copper"]
+  }
+  },
+  "125": {
+  "patient_info": {
+  "patient_id": 125,
+  "chronic_conditions": ["Xeroderma Pigmentosum"],
+  "medications": ["Sunscreen"],
+  "allergies": ["UV Radiation"]
+  }
+  },
+  "126": {
+  "patient_info": {
+  "patient_id": 126,
+  "chronic_conditions": ["Yaws"],
+  "medications": ["Antibiotics"],
+  "allergies": ["Penicillin"]
+  }
+  },
+  "127": {
+  "patient_info": {
+  "patient_id": 127,
+  "chronic_conditions": ["Zika Virus Infection"],
+  "medications": ["Supportive Care"],
+  "allergies": ["Mosquito Bites"]
+  }
+  },
+  "128": {
+  "patient_info": {
+  "patient_id": 128,
+  "chronic_conditions": ["Asthma"],
+  "medications": ["Inhaled Corticosteroids"],
+  "allergies": ["Pollen"]
+  }
+  },
+  "129": {
+  "patient_info": {
+  "patient_id": 129,
+  "chronic_conditions": ["Bipolar Disorder"],
+  "medications": ["Mood Stabilizers"],
+  "allergies": ["Bright Lights"]
+  }
+  },
+  "130": {
+  "patient_info": {
+  "patient_id": 130,
+  "chronic_conditions": ["Crohn's Disease"],
+  "medications": ["Immunosuppressants"],
+  "allergies": ["Dairy Products"]
+  }
+  },
+  "131": {
+  "patient_info": {
+  "patient_id": 131,
+  "chronic_conditions": ["Diabetes Type 1"],
+  "medications": ["Insulin"],
+  "allergies": ["Sugary Foods"]
+  }
+  },
+  "132": {
+  "patient_info": {
+  "patient_id": 132,
+  "chronic_conditions": ["Endometriosis"],
+  "medications": ["Hormonal Therapy"],
+  "allergies": ["Dairy Products"]
+  }
+  },
+  "133": {
+  "patient_info": {
+  "patient_id": 133,
+  "chronic_conditions": ["Fibrous Dysplasia"],
+  "medications": ["Pain Management"],
+  "allergies": ["Cold Weather"]
+  }
+  },
+  "134": {
+  "patient_info": {
+  "patient_id": 134,
+  "chronic_conditions": ["Gout"],
+  "medications": ["Colchicine"],
+  "allergies": ["Shellfish"]
+  }
+  },
+  "135": {
+  "patient_info": {
+  "patient_id": 135,
+  "chronic_conditions": ["Hemochromatosis"],
+  "medications": ["Phlebotomy"],
+  "allergies": ["Iron Supplements"]
+  }
+  },
+  "136": {
+  "patient_info": {
+  "patient_id": 136,
+  "chronic_conditions": ["Inflammatory Bowel Disease"],
+  "medications": ["Anti-Inflammatory Medications"],
+  "allergies": ["Dairy Products"]
+  }
+  },
+  "137": {
+  "patient_info": {
+  "patient_id": 137,
+  "chronic_conditions": ["Juvenile Idiopathic Arthritis"],
+  "medications": ["Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)"],
+  "allergies": ["Pollen"]
+  }
+  },
+  "138": {
+  "patient_info": {
+  "patient_id": 138,
+  "chronic_conditions": ["Klinefelter Syndrome"],
+  "medications": ["Hormone Replacement Therapy"],
+  "allergies": ["Bright Lights"]
+  }
+  },
+  "139": {
+  "patient_info": {
+  "patient_id": 139,
+  "chronic_conditions": ["Lupus"],
+  "medications": ["Immunosuppressants"],
+  "allergies": ["Sunlight"]
+  }
+  },
+  "140": {
+  "patient_info": {
+  "patient_id": 140,
+  "chronic_conditions": ["Myasthenia Gravis"],
+  "medications": ["Acetylcholinesterase Inhibitors"],
+  "allergies": ["Exertion"]
+  }
+  },
+  "141": {
+    "patient_info": {
+    "patient_id": 141,
+    "chronic_conditions": ["Neutropenia"],
+    "medications": ["Neutrophil Growth Factors"],
+    "allergies": ["Infectious Agents"]
+    }
+    },
+    "142": {
+    "patient_info": {
+    "patient_id": 142,
+    "chronic_conditions": ["Obesity"],
+    "medications": ["Dietary Changes", "Exercise"],
+    "allergies": ["None"]
+    }
+    },
+    "143": {
+    "patient_info": {
+    "patient_id": 143,
+    "chronic_conditions": ["Polycystic Ovary Syndrome (PCOS)"],
+    "medications": ["Oral Contraceptives", "Metformin"],
+    "allergies": ["None"]
+    }
+    },
+    "144": {
+    "patient_info": {
+    "patient_id": 144,
+    "chronic_conditions": ["Quadriceps Tendon Rupture"],
+    "medications": ["Physical Therapy"],
+    "allergies": ["None"]
+    }
+    },
+    "145": {
+    "patient_info": {
+    "patient_id": 145,
+    "chronic_conditions": ["Restless Legs Syndrome"],
+    "medications": ["Dopamine Agonists"],
+    "allergies": ["None"]
+    }
+    },
+    "146": {
+    "patient_info": {
+    "patient_id": 146,
+    "chronic_conditions": ["Sickle Cell Disease"],
+    "medications": ["Hydroxyurea", "Blood Transfusions"],
+    "allergies": ["None"]
+    }
+    },
+    "147": {
+    "patient_info": {
+    "patient_id": 147,
+    "chronic_conditions": ["Trigeminal Neuralgia"],
+    "medications": ["Anticonvulsant Medications"],
+    "allergies": ["None"]
+    }
+    },
+    "148": {
+    "patient_info": {
+    "patient_id": 148,
+    "chronic_conditions": ["Urticaria (Hives)"],
+    "medications": ["Antihistamines"],
+    "allergies": ["None"]
+    }
+    },
+    "149": {
+    "patient_info": {
+    "patient_id": 149,
+    "chronic_conditions": ["Von Willebrand Disease"],
+    "medications": ["Desmopressin", "Blood Clotting Factor Concentrates"],
+    "allergies": ["None"]
+    }
+    },
+    "150": {
+    "patient_info": {
+    "patient_id": 150,
+    "chronic_conditions": ["Williams Syndrome"],
+    "medications": ["Behavioral Therapy"],
+    "allergies": ["None"]
+    }
+    },
+    "151": {
+    "patient_info": {
+    "patient_id": 151,
+    "chronic_conditions": ["Xerostomia (Dry Mouth)"],
+    "medications": ["Saliva Substitutes"],
+    "allergies": ["None"]
+    }
+    },
+    "152": {
+    "patient_info": {
+    "patient_id": 152,
+    "chronic_conditions": ["Yersinia Infection"],
+    "medications": ["Antibiotics"],
+    "allergies": ["None"]
+    }
+    },
+    "153": {
+    "patient_info": {
+    "patient_id": 153,
+    "chronic_conditions": ["Zollinger-Ellison Syndrome"],
+    "medications": ["Proton Pump Inhibitors"],
+    "allergies": ["None"]
+    }
+    },
+    "154": {
+    "patient_info": {
+    "patient_id": 154,
+    "chronic_conditions": ["Achalasia"],
+    "medications": ["Muscle Relaxants", "Esophageal Dilation"],
+    "allergies": ["None"]
+    }
+    },
+    "155": {
+    "patient_info": {
+    "patient_id": 155,
+    "chronic_conditions": ["Biliary Atresia"],
+    "medications": ["Kasai Procedure", "Liver Transplantation"],
+    "allergies": ["None"]
+    }
+    },
+    "156": {
+    "patient_info": {
+    "patient_id": 156,
+    "chronic_conditions": ["Chronic Fatigue Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "157": {
+    "patient_info": {
+    "patient_id": 157,
+    "chronic_conditions": ["Dandy-Walker Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "158": {
+    "patient_info": {
+    "patient_id": 158,
+    "chronic_conditions": ["Ectopic Pregnancy"],
+    "medications": ["Surgery", "Methotrexate"],
+    "allergies": ["None"]
+    }
+    },
+    "159": {
+    "patient_info": {
+    "patient_id": 159,
+    "chronic_conditions": ["Familial Mediterranean Fever"],
+    "medications": ["Colchicine"],
+    "allergies": ["None"]
+    }
+    },
+    "160": {
+    "patient_info": {
+    "patient_id": 160,
+    "chronic_conditions": ["Gastroschisis"],
+    "medications": ["Surgery"],
+    "allergies": ["None"]
+    }
+    },
+    "161": {
+    "patient_info": {
+    "patient_id": 161,
+    "chronic_conditions": ["Hirschsprung's Disease"],
+    "medications": ["Surgery"],
+    "allergies": ["None"]
+    }
+    },
+    "162": {
+    "patient_info": {
+    "patient_id": 162,
+    "chronic_conditions": ["Ichthyosis"],
+    "medications": ["Topical Treatments"],
+    "allergies": ["None"]
+    }
+    },
+    "163": {
+    "patient_info": {
+    "patient_id": 163,
+    "chronic_conditions": ["Joubert Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "164": {
+    "patient_info": {
+    "patient_id": 164,
+    "chronic_conditions": ["Kernicterus"],
+    "medications": ["Phototherapy"],
+    "allergies": ["None"]
+    }
+    },
+    "165": {
+    "patient_info": {
+    "patient_id": 165,
+    "chronic_conditions": ["Leber's Congenital Amaurosis"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "166": {
+    "patient_info": {
+    "patient_id": 166,
+    "chronic_conditions": ["Morgellons Disease"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "167": {
+    "patient_info": {
+    "patient_id": 167,
+    "chronic_conditions": ["Narcolepsy"],
+    "medications": ["Stimulants", "Sleep Aids"],
+    "allergies": ["None"]
+    }
+    },
+    "168": {
+    "patient_info": {
+    "patient_id": 168,
+    "chronic_conditions": ["Ondine's Curse (Congenital Central Hypoventilation Syndrome)"],
+    "medications": ["Mechanical Ventilation"],
+    "allergies": ["None"]
+    }
+    },
+    "169": {
+    "patient_info": {
+    "patient_id": 169,
+    "chronic_conditions": ["Prader-Willi Syndrome"],
+    "medications": ["Hormone Therapy", "Behavioral Therapy"],
+    "allergies": ["None"]
+    }
+    },
+    "170": {
+    "patient_info": {
+    "patient_id": 170,
+    "chronic_conditions": ["Rett Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "171": {
+    "patient_info": {
+    "patient_id": 171,
+    "chronic_conditions": ["Stevens-Johnson Syndrome"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "172": {
+    "patient_info": {
+    "patient_id": 172,
+    "chronic_conditions": ["Toxic Epidermal Necrolysis"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "173": {
+    "patient_info": {
+    "patient_id": 173,
+    "chronic_conditions": ["Usher Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "174": {
+    "patient_info": {
+    "patient_id": 174,
+    "chronic_conditions": ["VACTERL Association"],
+    "medications": ["Surgical Interventions"],
+    "allergies": ["None"]
+    }
+    },
+    "175": {
+    "patient_info": {
+    "patient_id": 175,
+    "chronic_conditions": ["Williams Syndrome"],
+    "medications": ["Behavioral Therapy"],
+    "allergies": ["None"]
+    }
+    },
+    "176": {
+    "patient_info": {
+    "patient_id": 176,
+    "chronic_conditions": ["Xerostomia (Dry Mouth)"],
+    "medications": ["Saliva Substitutes"],
+    "allergies": ["None"]
+    }
+    },
+    "177": {
+    "patient_info": {
+    "patient_id": 177,
+    "chronic_conditions": ["Yersinia Infection"],
+    "medications": ["Antibiotics"],
+    "allergies": ["None"]
+    }
+    },
+    "178": {
+    "patient_info": {
+    "patient_id": 178,
+    "chronic_conditions": ["Zollinger-Ellison Syndrome"],
+    "medications": ["Proton Pump Inhibitors"],
+    "allergies": ["None"]
+    }
+    },
+    "179": {
+    "patient_info": {
+    "patient_id": 179,
+    "chronic_conditions": ["Achalasia"],
+    "medications": ["Muscle Relaxants", "Esophageal Dilation"],
+    "allergies": ["None"]
+    }
+    },
+    "180": {
+    "patient_info": {
+    "patient_id": 180,
+    "chronic_conditions": ["Biliary Atresia"],
+    "medications": ["Surgery"],
+    "allergies": ["None"]
+    }
+    },
+    "181": {
+    "patient_info": {
+    "patient_id": 181,
+    "chronic_conditions": ["Hirschsprung's Disease"],
+    "medications": ["Surgery"],
+    "allergies": ["None"]
+    }
+    },
+    "182": {
+    "patient_info": {
+    "patient_id": 182,
+    "chronic_conditions": ["Ichthyosis"],
+    "medications": ["Topical Treatments"],
+    "allergies": ["None"]
+    }
+    },
+    "183": {
+    "patient_info": {
+    "patient_id": 183,
+    "chronic_conditions": ["Joubert Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "184": {
+    "patient_info": {
+    "patient_id": 184,
+    "chronic_conditions": ["Kernicterus"],
+    "medications": ["Phototherapy"],
+    "allergies": ["None"]
+    }
+    },
+    "185": {
+    "patient_info": {
+    "patient_id": 185,
+    "chronic_conditions": ["Leber's Congenital Amaurosis"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "186": {
+    "patient_info": {
+    "patient_id": 186,
+    "chronic_conditions": ["Morgellons Disease"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "187": {
+    "patient_info": {
+    "patient_id": 187,
+    "chronic_conditions": ["Narcolepsy"],
+    "medications": ["Stimulants", "Sleep Aids"],
+    "allergies": ["None"]
+    }
+    },
+    "188": {
+    "patient_info": {
+    "patient_id": 188,
+    "chronic_conditions": ["Ondine's Curse (Congenital Central Hypoventilation Syndrome)"],
+    "medications": ["Mechanical Ventilation"],
+    "allergies": ["None"]
+    }
+    },
+    "189": {
+    "patient_info": {
+    "patient_id": 189,
+    "chronic_conditions": ["Prader-Willi Syndrome"],
+    "medications": ["Hormone Therapy", "Behavioral Therapy"],
+    "allergies": ["None"]
+    }
+    },
+    "190": {
+    "patient_info": {
+    "patient_id": 190,
+    "chronic_conditions": ["Rett Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "191": {
+    "patient_info": {
+    "patient_id": 191,
+    "chronic_conditions": ["Stevens-Johnson Syndrome"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "192": {
+    "patient_info": {
+    "patient_id": 192,
+    "chronic_conditions": ["Toxic Epidermal Necrolysis"],
+    "medications": ["Supportive Care"],
+    "allergies": ["None"]
+    }
+    },
+    "193": {
+    "patient_info": {
+    "patient_id": 193,
+    "chronic_conditions": ["Usher Syndrome"],
+    "medications": ["Symptomatic Treatment"],
+    "allergies": ["None"]
+    }
+    },
+    "194": {
+    "patient_info": {
+    "patient_id": 194,
+    "chronic_conditions": ["VACTERL Association"],
+    "medications": ["Surgical Interventions"],
+    "allergies": ["None"]
+    }
+    },
+    "195": {
+      "patient_info": {
+        "patient_id": 195,
+        "chronic_conditions": ["Alzheimer's Disease"],
+        "medications": ["Cholinesterase Inhibitors", "Memantine"],
+        "allergies": ["None"]
+      }
+    },
+    "196": {
+      "patient_info": {
+        "patient_id": 196,
+        "chronic_conditions": ["Bipolar Disorder"],
+        "medications": ["Mood Stabilizers", "Antipsychotic Medications"],
+        "allergies": ["None"]
+      }
+    },
+    "197": {
+      "patient_info": {
+        "patient_id": 197,
+        "chronic_conditions": ["Celiac Disease"],
+        "medications": ["Gluten-Free Diet"],
+        "allergies": ["None"]
+      }
+    },
+    "198": {
+      "patient_info": {
+        "patient_id": 198,
+        "chronic_conditions": ["Depression"],
+        "medications": ["Antidepressants", "Psychotherapy"],
+        "allergies": ["None"]
+      }
+    },
+    "199": {
+      "patient_info": {
+        "patient_id": 199,
+        "chronic_conditions": ["Epilepsy"],
+        "medications": ["Antiepileptic Drugs"],
+        "allergies": ["None"]
+      }
+    },
+    "200": {
+      "patient_info": {
+        "patient_id": 200,
+        "chronic_conditions": ["Fibromyalgia"],
+        "medications": ["Pain Relievers", "Physical Therapy"],
+        "allergies": ["None"]
+      }
+    },
+    "201": {
+      "patient_info": {
+        "patient_id": 201,
+        "chronic_conditions": ["Gastric Ulcer"],
+        "medications": ["Proton Pump Inhibitors", "Antacids"],
+        "allergies": ["None"]
+      }
+    },
+    "202": {
+      "patient_info": {
+        "patient_id": 202,
+        "chronic_conditions": ["Hypertension (High Blood Pressure)"],
+        "medications": ["Antihypertensive Drugs", "Lifestyle Modifications"],
+        "allergies": ["None"]
+      }
+    }
+}

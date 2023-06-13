@@ -1,0 +1,12 @@
+Create database: create database named MyDB with file_path=data.json, chunk_size=2, primary_key=id
+Switch database: switch to db MyDB
+Search data with primary key: search data with primary id 123
+Insert data: insert {"id": 124, "name": "Sample Name", "age": 30}
+Delete data: delete data where id=123
+Update data: update data where id=123 set name="New Name" remove age
+Join datasets: join dataset1 on key1 with dataset2 on key2
+Select with condition (advanced): select data with condition id>100 attributes=name,age group_by=department limit=10 aggregate=sum(salary)
+Select data: select name,age where age>25 order by age desc limit 5
+Exit current database: exit db
+Exit application: exit
+Delete database: delete database named MyDB
